@@ -1,0 +1,113 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Main {
+
+
+   // public static void main(String[] args)   {
+    //    Scanner scanner = new Scanner(System.in);
+   //     System.out.print("Введите числа");
+   //     double a = scanner.nextInt();
+   //     double b = scanner.nextInt();
+    //    double c = scanner.nextInt();
+   //     double D;
+   //     System.out.println("ax^2 + bx + c = 0");
+   //     D = b * b - 4 * a * c;
+   //     if (D > 0) {
+   //         double x1, x2;
+   //         x1 = (-b - Math.sqrt(D)) / (2 * a);
+   //         x2 = (-b + Math.sqrt(D)) / (2 * a);
+   //         System.out.println("Корни уравнения: x1 = " + x1 + ", x2 = " + x2);
+   //     }
+   //     else if (D == 0) {
+   //         double x;
+  //          x = -b / (2 * a);
+   //         System.out.println("Уравнение имеет единственный корень: x = " + x);
+   //     }
+   //     else {
+   //         System.out.println("Уравнение не имеет действительных корней!");
+   //     }
+   // }
+   // public static void main(String[] args) {
+ //       Scanner scanner = new Scanner(System.in);
+ //       double a = scanner.nextInt();
+ //       double b = scanner.nextInt();
+  //      System.out.println("Введите числа");
+  //      if (a>0 && b>0) {
+   //         System.out.println(2 * (a + b));
+   //         System.out.println(a * b);
+   //     }
+    //    else{
+    //            System.out.println("Ни длину, ни площадь вычеслить невозможно");
+    //        }
+    //    }
+ //   public static void main(String[] args) {
+   //     Scanner scanner = new Scanner(System.in);
+  //      System.out.println("Введите число");
+  //      double a = scanner.nextInt();
+   //     if (a>=4) {
+   //         System.out.println(a / 4);
+    //    }
+   //     else {
+    //        System.out.println("Не корректно");
+   //     }
+//   public static void main(String[] args) {
+ //      Scanner scanner = new Scanner(System.in);
+ //      System.out.println("Введите числа");
+//       double a = scanner.nextInt();
+   //    double b = scanner.nextInt();
+   //    double c = scanner.nextInt();
+  //     if (a>0){
+   //        System.out.println((b+Math.pow(b,2 + 4*a*c)/2*a)- Math.pow(a,3)*c + Math.pow(b,-2));
+  //     }
+  //     else {
+  //         System.out.println("Не корректно");
+   //    }
+  // public static void main(String[] args) {
+  //     Scanner scanner = new Scanner(System.in);
+   //    System.out.println("Введите число");
+  //     double x = scanner.nextInt();
+ //      if (x>=1) {
+  //         System.out.println(Math.sin(x + 1) - Math.sin(x - 1));
+  //     }
+   //    else {
+   //        System.out.println("Не корректно");
+    //   }
+
+    //   }
+ //   public static void main(String[] args) {
+  //      Scanner scanner = new Scanner(System.in);
+ //       System.out.println("Введите число");
+ //       double x = scanner.nextInt();
+ //       System.out.println(x - Math.pow(x,3)/3 + Math.pow(x,5)/5);
+  //
+//
+
+  //  }
+ // public static void main(String[] args) {
+  //    Scanner scanner = new Scanner(System.in);
+ //     System.out.println("Введите числа");
+ //    double x = scanner.nextInt();
+ //     double y = scanner.nextInt();
+ //     if (x>=1 && y<x) {
+ //         System.out.println(Math.pow(1 - Math.tan(x), 1 / Math.tan(x)) + Math.cos(x - y));
+  //    }
+  //    else {
+  //        System.out.println("Не корректно");
+  //    }
+   //   }
+ // public static void main(String[] args) {
+ //     Scanner scanner = new Scanner(System.in);
+ //     System.out.println("Введите числа");
+ //     double x = scanner.nextInt();
+ //     double y = scanner.nextInt();
+ //     if (y>=0 && x> -34) {
+  //        System.out.println(((x + y) / (y + 1)) - ((x * y - 12) / (34 + x)));
+  //    }
+  //    else {
+  //        System.out.println("Не корректно");
+   //   }
+  //    }
+
+  }
